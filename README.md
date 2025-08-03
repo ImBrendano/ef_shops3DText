@@ -6,7 +6,7 @@ This is a fork of the ef_shops GTAV Five M resource, modified to use J-textUI fo
 
 MAKE SURE TO ENSURE IN YOUR SERVER.CFG LIKE THIS:
 
-ensure j-3dtextui
+ensure j-3dtextui<br>
 ensure ef_shops
 
 OG creators: https://github.com/jellyton255/ef_shops GPL-3.0
