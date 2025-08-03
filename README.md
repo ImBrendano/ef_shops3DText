@@ -10,6 +10,6 @@ ensure j-3dtextui<br>
 ensure ef_shops
 
 OG creators: https://github.com/jellyton255/ef_shops GPL-3.0<br>
-&emsp; &emsp; &emsp; https://github.com/Haaasib/j-textui No icense Provided
+&emsp; &emsp; &emsp; https://github.com/Haaasib/j-textui No license Provided
 
 [![Watch the video](https://github.com/ImBrendano/ef_shops3DText/blob/main/thumbnail.png?raw=true)](https://jumpshare.com/share/DtgH58aducD0Ten4wOvE)
